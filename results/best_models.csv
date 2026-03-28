@@ -1,0 +1,4 @@
+algorithm,checkpoint,step,model_path,mean_reward,std_reward,min_reward,max_reward,mean_caught,mean_missed,mean_coverage,mean_false
+DQN,wildlife_dqn_695000_steps.zip,695000,models/dqn/wildlife_dqn_695000_steps.zip,4113.5001,597.8049,3118.8492,4918.7516,0.0000,10.4000,15.2000,1.2000
+PPO,wildlife_ppo_810000_steps.zip,810000,models/ppo/wildlife_ppo_810000_steps.zip,4142.9384,737.8169,3412.9894,5538.9748,0.0000,8.8000,4.6000,3.2000
+A2C,wildlife_a2c_90000_steps.zip,90000,models/a2c/wildlife_a2c_90000_steps.zip,3524.0374,490.1893,2998.4360,4392.0482,0.0000,6.6000,8.4000,6.4000

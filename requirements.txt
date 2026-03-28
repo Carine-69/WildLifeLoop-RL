@@ -1,0 +1,8 @@
+gymnasium==1.2.0
+numpy==1.26.5
+stable-baselines3==2.3.0
+torch==2.1.0
+matplotlib==3.9.0
+pygame==2.5.2
+seaborn==0.12.3
+pandas==2.2.0
